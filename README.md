@@ -12,4 +12,4 @@ WEEK-5: https://github.com/2303a52449/2303a52449/blob/main/AIML_05.ipynb
 
 WEEK-6: https://github.com/2303a52449/2303a52449/blob/main/AIML_06.ipynb
 
-WEEK-7:
+WEEK-7: https://github.com/2303a52449/2303a52449/blob/main/AIML_07.ipynb
